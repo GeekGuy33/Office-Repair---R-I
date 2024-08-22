@@ -1,3 +1,12 @@
+Removal of All Versions of Office installed on the device:
+
+# Run Completely remove all Office versions.ps1 (Powershell) in admin mode.
+
+
+
+
+Office 365 Installation:
+
 #Create a folder called "Officetool" in Local C Drive.
 
 # Run officedeploymenttool_17830-20162.exe
@@ -7,10 +16,3 @@
 # Run the bash script file - "Office 365 Installation Script"
 
 # Once the installation is completed you will have the latest office 365 installed on the device.
-
-
-
-
-Removal of All Versions of Office installed on the device
-
-# Run Completely remove all Office versions.ps1 (Powershell) in admin mode.
