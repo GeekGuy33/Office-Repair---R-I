@@ -36,7 +36,7 @@ Param (
     [switch]$UseSetupRemoval = $False,
     [Switch]$Force = $False,
     [switch]$RunAgain = $False,
-    [int]$SecondsToReboot = 60
+    [int]$SecondsToReboot = 21600
 )
 #----------------------------------------------------------[Declarations]----------------------------------------------------------
 $SaRA_URL = "https://aka.ms/SaRA_CommandLineVersionFiles"
