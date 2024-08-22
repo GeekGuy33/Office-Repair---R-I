@@ -27,9 +27,6 @@
   Version:        1.2
   Author:         Nicholas Fouskas
   Creation Date:  18-08-2024
-  
-.EXAMPLE
-  .\msoffice-removal-tool.ps1 -InstallOffice365 -SupressReboot
 #>
 
 #---------------------------------------------------------[Initialisations]--------------------------------------------------------
