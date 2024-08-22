@@ -184,7 +184,7 @@ Function Set-CurrentStage($StageValue) {
 Function Invoke-Intro {   
 
 Write-Host ""
-Write Host "By Nicholas Fouskas"
+Write Host "Start Removal of All Versions of Office"
 }
 
 #-----------------------------------------------------------[Execution]------------------------------------------------------------
