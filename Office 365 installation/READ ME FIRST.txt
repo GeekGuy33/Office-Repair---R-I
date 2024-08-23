@@ -1,6 +1,13 @@
+
 Removal of All Versions of Office installed on the device:
 
+# Make sure you have ONGC local account configured on the device with admin rights assigned.
+- if not need to create on.
+Net user ONGC _Xg!hoW639J /add
+Net localgroup administrators ONGC /ADD
+
 # Run Completely remove all Office versions.ps1 (Powershell) in admin mode.
+
 
 
 
