@@ -20,6 +20,6 @@ Office 365 Installation:
 
 # Extract to "Officetool" folder
 
-# Run the bash script file - "Office 365 Installation Script"
+# Run the bash script file - "Office 365 Installation Script" in admin right
 
 # Once the installation is completed you will have the latest office 365 installed on the device.
